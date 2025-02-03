@@ -1,20 +1,20 @@
-.. -*- encoding: utf-8 -*-
+* .. -*- encoding: utf-8 -*-
 
 .. meta::
-    :PG.Title: The Second Boy's Book of Model Aeroplanes
+    :PG.Title: The Second Boys' Book of Model Aeroplanes
     :PG.Id: 62549
     :PG.Released: 2020-07-03
     :PG.Rights: Public Domain
     :PG.Producer: James Simmons
     :PG.Credits: This file was produced from page images at Google Books.
     :DC.Creator: Francis Arnold Collins
-    :DC.Title: The Second Boy's Book of Model Aeroplanes 
+    :DC.Title: The Second Boys' Book of Model Aeroplanes
     :DC.Language: en
     :DC.Created: 1911
     :coverpage: images/CoverImage.jpg
 
 ==========================================
-The Second Boy's Book of Model Aeroplanes
+The Second Boys' Book of Model Aeroplanes
 ==========================================
 
 .. clearpage::
@@ -25,7 +25,7 @@ The Second Boy's Book of Model Aeroplanes
 
 .. topic:: Transcriber's Note
 
-    This book was transcribed from a scan of the original found at Google Books. 
+    This book was transcribed from a scan of the original found at Google Books.
     I have rotated some images and have corrected the misspelling of "aileron"
     that appeared many times in the original text.
 
@@ -43,19 +43,19 @@ The Second Boy's Book of Model Aeroplanes
 
 .. clearpage::
 
-.. container:: titlepage 
+.. container:: titlepage
 
     .. container:: center x-large
 
-	THE SECOND BOY'S BOOK
+	THE SECOND BOYS' BOOK
 
 	OF MODEL AEROPLANES
 
 	BY
 
-	FRANCIS A. COLLINS 
+	FRANCIS A. COLLINS
 
-	AUTHOR OF "THE BOYS' BOOK OF MODEL AEROPLANES" 
+	AUTHOR OF "THE BOYS' BOOK OF MODEL AEROPLANES"
 
     	.. vspace:: 2
 
@@ -74,24 +74,24 @@ The Second Boy's Book of Model Aeroplanes
     	.. vfill::
 
     	NEW YORK
-    	
+
     	THE CENTURY CO.
-    	
+
     	1911
 
 .. clearpage::
 
 .. container:: center medium
 
-	Copyright 1911, by 
+	Copyright 1911, by
 
-	The Century Co. 
+	The Century Co.
 
 	Published October, 1911
 
 .. cleardoublepage::
 
-THE SECOND BOY'S BOOK OF MODEL AEROPLANES
+THE SECOND BOYS' BOOK OF MODEL AEROPLANES
 -----------------------------------------
 
 FOREWORD
@@ -118,7 +118,7 @@ LIST OF ILLUSTRATIONS
  :backlinks: none
 
 .. cleardoublepage::
-   
+
 .. mainmatter::
 
 CHAPTER I MODEL AEROPLANES OF 1911
@@ -387,7 +387,7 @@ Your glider will fly better with a vertical rudder, as in the case of the paper 
 
 The glider is thrown with the smaller end forward. For the trial flight, mount the smaller plane at the extreme forward end and then move it backward as you test it out, until the glider moves on an even keel. To launch the glider, grasp the central stick from beneath at the point where it balances, and throw it forward with all your might. Since it travels at a much higher speed than a power-driven model aeroplane, it requires much less supporting surface, while the planes may be spaced much further apart.
 
-When you have adjusted the planes, try throwing your glider at an upward angle of say forty-five degrees. It should rise swiftly to a height of upwards of fifty feet, turn backward on itself, and even describe a graceful upward curve before coming down. Now try throwing it into the wind or against a moderately strong breeze. Its course is likely to be very irregular. It will dip and rise at many unexpected angles, and probably travel several hundred feet in all before landing. During the past year, a model glider has been built by Mr. W. H. Howell, Jr., to glide a horizontal distance of 650 feet, while the actual length of the flights has been upwards of 2,000 feet. 
+When you have adjusted the planes, try throwing your glider at an upward angle of say forty-five degrees. It should rise swiftly to a height of upwards of fifty feet, turn backward on itself, and even describe a graceful upward curve before coming down. Now try throwing it into the wind or against a moderately strong breeze. Its course is likely to be very irregular. It will dip and rise at many unexpected angles, and probably travel several hundred feet in all before landing. During the past year, a model glider has been built by Mr. W. H. Howell, Jr., to glide a horizontal distance of 650 feet, while the actual length of the flights has been upwards of 2,000 feet.
 
 CHAPTER IV TOOLS AND MATERIALS
 ``````````````````````````````
@@ -1015,9 +1015,9 @@ The one-ounce models, which have been brought to such perfection in England, are
 
 .. figure:: images/Image37.jpg
    :scale: 50 %
-   :alt: A — The Famous "one Ouncer." B — A Small Experimental Model. C — A Modified Burgess Webb Model. 
+   :alt: A — The Famous "one Ouncer." B — A Small Experimental Model. C — A Modified Burgess Webb Model.
 
-   A — The Famous "one Ouncer." B — A Small Experimental Model. C — A Modified Burgess Webb Model. 
+   A — The Famous "one Ouncer." B — A Small Experimental Model. C — A Modified Burgess Webb Model.
 
 The model is driven most efficiently by a six-inch propeller. If it be a one-piece blade, prepare a propeller blank six inches by one inch, cut from a half-inch board. Cut away to the thinnest possible blade. Use a very simple support for your propeller shaft as well as for the motor anchorage at the extreme forward end. The planes should be tied with rubber strands to the stick and glued in position when properly adjusted. Try out your model with a motor consisting of two strands of one-eighth-inch rubber, and increase if necessary. You will need all your ingenuity and skill and workmanship to construct a stable model even of so simple a design which will come within one ounce. Throw it with the wind.
 
@@ -1034,7 +1034,7 @@ A model which rises unassisted requires considerable power and your propellers s
    :scale: 50 %
    :alt: Model With Minimum Plane Surface.
 
-   Model With Minimum Plane Surface. 
+   Model With Minimum Plane Surface.
 
 For the early trials use planes with a rather high aspect ratio. Make one of the planes four by sixteen inches with square corners, and the second, which will be carried forward, about the same size with rounded corners. Both planes should have a slight camber.
 
@@ -1063,7 +1063,7 @@ Before stringing the rubber strands between the two hooks of your motor, be sure
    :scale: 50 %
    :alt: One of the earlier models built by Cecil Peoli
 
-   One of the earlier models built by Cecil Peoli 
+   One of the earlier models built by Cecil Peoli
 
 For a model of this size, wooden planes are entirely practical and very simple to construct. Much depends upon the modeling of the planes and the smoothness of both of their surfaces. For the planes you will need two thin boards, one eight by two inches and another four by two inches, each one-eighth of an inch thick. Select a wood such as poplar or spruce, which will not split easily. The ends of the planes should be rounded in front and cut sharply away at the rear edge, as described elsewhere. If the wood will stand reduction without breaking, plane or sandpaper away the surfaces until they are about one-sixteenth of an inch thick.
 
@@ -1100,7 +1100,7 @@ A serviceable model may be built up with flat planes equipped with ailerons both
    :scale: 50 %
    :alt: A Model With Adjustable Stabilizer.
 
-   A Model With Adjustable Stabilizer. 
+   A Model With Adjustable Stabilizer.
 
 The pull of the motors when wound is thus well distributed and, as has been pointed out, permits of a larger propeller being used without danger of their striking in turning. Still another advantage is that it keeps the strands of the motor from interfering with the planes. When the motors are strung above the planes, they have a tendency to force the machine downward.
 
@@ -1390,7 +1390,7 @@ I have no trouble in getting my model off the ground, but it seems to rise too f
 
 If your model rises quickly, the planes are probably well designed and built, the motor is effective, and the propeller sufficient for all needs. The trouble is likely to be with the angle of the planes. Perhaps your front plane is elevated too high. The rear plane should be kept horizontal or very nearly so. An aileron at the rear of the main plane will help you to properly adjust same. As a rule, the angle of ascent should be a little more than that of the front plane. If it still acts badly, strengthen your motor and bring your large plane back a trifle.
 
-What is the best place to put the keel? 
+What is the best place to put the keel?
 
 The greatest stability is usually gained by fixing the keel at the center of gravity. There is great difference of opinion as to whether it should be above or below. Try both ways. What is stability for one aeroplane may mean disaster for another.
 
@@ -1484,7 +1484,7 @@ What is the best height for a model aeroplane to fly?
 
 In the principal model tournaments held in New York the models were seldom more than twenty feet from the ground at any time. Most model builders have this altitude in mind in designing their machines. It seems to be generally agreed that when a model rises higher than this too much power is used up in gaining altitude and there is a corresponding loss in the distance qualities. On the other hand in the remarkable 1,600 foot flight made by Cecil Peoli in July, the model rose to a height, it is believed, of more than 100 feet and gained considerable distance in gliding down. After all it is a problem which must be decided by the individual. Incidentally it is estimated that a large man-carrying aeroplane on rising to an altitude of one mile can safely soar with all power shut off for twelve miles. This means of course that an aviator has the choice of landing anywhere within a circle twenty-five miles in diameter, which gives him a rather wide choice.
 
-What is meant by "critical soaring speed?" 
+What is meant by "critical soaring speed?"
 
 It is claimed by some aviators that every aeroplane has a certain speed at which it flies best and beyond which it is unsafe to push it. If more power is put on, they argue, it will only tend to send the machine up in the air and will not increase its speed. This is probably true in a measure of model aeroplanes as well. When you have found the speed at which your aeroplane flies best do not change the number of rubber bands of your motor or the number of turns in winding.
 
@@ -1596,7 +1596,7 @@ No list of the successful model aeroplane models of the year would be complete w
 
 In point of workmanship few of the model aeroplanes which have appeared at the meets this year compare with those built by R. Mungokee. The genius of the Japanese for delicate construction finds an admirable opportunity in such work. These models are unusually large, and their wing area considerable, yet so delicate are all the parts that they weigh less than one pound. The sticks used for the motor base are hollow, being built up of a light veneer one-sixteenth of an inch thick. The joints are so cleverly arranged that they would deceive the average eye. The main sticks of the frame are joined by a series of trusses of the same delicate construction which form an exceptionally rigid base of amazing lightness. Every detail of the model shows the same delicacy of construction. The planes are built up of thin strips of bamboo covered with Japanese silk on both surfaces, the curve being drawn perfectly. The models are driven by two very wide propellers of high pitch, placed back of the rear plane. The smaller plane is carried forward. The model rises to considerable height, often fifty feet or more, and flies horizontally with unusual stability. The frame is braced by fine wires running through struts placed midway above and below the main sticks.
 
-The finest scale model aeroplane in America to-day is doubtless the biplane built by Mr. Karl H. De Leon, illustrated on the cover of this volume. Its great size is indicated by comparison with the boys standing about it. The most delicate workmanship is to be found in every detail. The planes are controlled by a complete system of wires and levers centered at the driver's seat, exactly as in the large man-carrying machines.. The wings may be flexed and the guiding rudders turned from side to side or their angle elevated or depressed by the slightest movement of the controlling devices. The model is equipped with a miniature Gnome engine especially imported for the purpose. The materials employed in constructing this model alone cost upwards of $500. The model embodies several original features, the inventions of the builder. 
+The finest scale model aeroplane in America to-day is doubtless the biplane built by Mr. Karl H. De Leon, illustrated on the cover of this volume. Its great size is indicated by comparison with the boys standing about it. The most delicate workmanship is to be found in every detail. The planes are controlled by a complete system of wires and levers centered at the driver's seat, exactly as in the large man-carrying machines.. The wings may be flexed and the guiding rudders turned from side to side or their angle elevated or depressed by the slightest movement of the controlling devices. The model is equipped with a miniature Gnome engine especially imported for the purpose. The materials employed in constructing this model alone cost upwards of $500. The model embodies several original features, the inventions of the builder.
 
 .. figure:: images/Image50.jpg
    :scale: 50 %
@@ -1742,11 +1742,11 @@ Starters will ask for the floor by showing flag.
 
 The director will order the flights as follows:
 
-Three whistles for a spectacular flight. 
+Three whistles for a spectacular flight.
 
-Two whistles for a distance flight. 
+Two whistles for a distance flight.
 
-One whistle for a lifting-power flight. 
+One whistle for a lifting-power flight.
 
 Contestants must keep off the floor unless following their own machine in flight.
 
@@ -1755,7 +1755,7 @@ After they have picked up their machine, they must leave the floor in the most e
 Contestants will apply to entry clerks for directions.
 
 RULES FOR MODEL AEROPLANE CONTESTS
-################################## 
+##################################
 
 PREPARED BY THE NEW YORK MODEL AERO CLUB.
 #########################################
@@ -1936,7 +1936,7 @@ ART. IX
 
 *Order of Business.*
 
-1. Reading of Business. 
+1. Reading of Business.
 
 2. Reports of Officers and Committees.
 
@@ -1978,18 +1978,18 @@ Area. In the case of planes, the extent of surface measured on both the upper an
 
 Aspect Ratio. The relation of a surface crossing the direction of flight with that paralleling the line of
 
-flight. Automatic Stability. Stability secured by fins, the angle of the planes and similar devices. 
+flight. Automatic Stability. Stability secured by fins, the angle of the planes and similar devices.
 
-Aviator. One engaged in aviation. 
+Aviator. One engaged in aviation.
 
 Aviation. The science of heavier than air machines.
 
 B
 #
 
-Balancer. A plane or other part intended for lateral equilibrium. 
+Balancer. A plane or other part intended for lateral equilibrium.
 
-Biplane. An aeroplane with two supporting surfaces one above the other. 
+Biplane. An aeroplane with two supporting surfaces one above the other.
 
 Body. The main framework supporting the plane and the machinery.
 
@@ -2007,24 +2007,24 @@ Center Of Pressure. The imaginary line beneath the plane at which the pressure b
 D
 #
 
-Deck. The main surface of a biplane or multiplane. 
+Deck. The main surface of a biplane or multiplane.
 
-Directional Control. The ability to determine the direction of the flight of an aeroplane. 
+Directional Control. The ability to determine the direction of the flight of an aeroplane.
 
-Dirigible. A balloon driven by power. 
+Dirigible. A balloon driven by power.
 
-Down Wind. With the wind. 
+Down Wind. With the wind.
 
 Drift. The resistance of the plane to the forward movement.
 
 E
 #
 
-Elevator. The plane or wing intended to control the vertical flight of the machine. 
+Elevator. The plane or wing intended to control the vertical flight of the machine.
 
-Engineer. One who controls the power, driving the machinery. 
+Engineer. One who controls the power, driving the machinery.
 
-Entering Edge. Front edge of the forward plane of an aeroplane. 
+Entering Edge. Front edge of the forward plane of an aeroplane.
 
 Equilibrator. A plane or other contrivance which makes for stability.
 
@@ -2046,9 +2046,9 @@ G
 
 Glider. An aeroplane without motor power.
 
-Guy. A brace, usually a wire or cord used for tuning up the aeroplane. 
+Guy. A brace, usually a wire or cord used for tuning up the aeroplane.
 
-Gross Weight. The weight of the aircraft comprising fuel, lubricating oils, and the pilot. 
+Gross Weight. The weight of the aircraft comprising fuel, lubricating oils, and the pilot.
 
 Gyroscope. A rotating mechanism for maintaining equilibrium.
 
@@ -2057,11 +2057,11 @@ H
 
 Hanger. A shed for housing an aeroplane.
 
-Harbor. A shelter for aircrafts. 
+Harbor. A shelter for aircrafts.
 
-Heavier Than Air. A machine weighing more than the air it displaces. 
+Heavier Than Air. A machine weighing more than the air it displaces.
 
-Helicopter. A flying machine driven upward by rotary screws on vertical shafts. 
+Helicopter. A flying machine driven upward by rotary screws on vertical shafts.
 
 Helmsman. One in charge of the steering device.
 
@@ -2077,20 +2077,20 @@ Longitudinal Stability. Stability which prevents fore and after motion or pitchi
 M
 #
 
-Mast. A perpendicular stick holding the stays or struts which keep the planes rigid. 
+Mast. A perpendicular stick holding the stays or struts which keep the planes rigid.
 
-Model Aeroplane. A toy aeroplane, reproducing a man-carrying machine. 
+Model Aeroplane. A toy aeroplane, reproducing a man-carrying machine.
 
-Monoplane. An aeroplane or heavier than air machine supported by a single main plane which may be formed of two wings extending from a central body. 
+Monoplane. An aeroplane or heavier than air machine supported by a single main plane which may be formed of two wings extending from a central body.
 
-Motor. A contrivance for generating driving power. 
+Motor. A contrivance for generating driving power.
 
 Multiplane. An aeroplane with more than three main planes one above another.
 
 N
 #
 
-Nacelle. The car of a dirigible balloon, literally a cradle. 
+Nacelle. The car of a dirigible balloon, literally a cradle.
 
 Net Weight. Complete weight of the machine without pilot, fuel or oil.
 
@@ -2117,7 +2117,7 @@ Propeller. The screw used for driving an aeroplane, plane.
 R
 #
 
-Rudder. A plane or group of planes used to steer an aeroplane. 
+Rudder. A plane or group of planes used to steer an aeroplane.
 
 Runner. Strip beneath an aeroplane used for a skid.
 
@@ -2132,13 +2132,13 @@ Stability. The power to maintain an even keel in flight.
 
 Starting Platform. A runway to enable an aeroplane to leave the ground.
 
-Skin Friction. Resistance offered by planes or wings. 
+Skin Friction. Resistance offered by planes or wings.
 
-Slip. The difference between the distance actually travelled by a propeller and that measured by the pitch. 
+Slip. The difference between the distance actually travelled by a propeller and that measured by the pitch.
 
-Soaring Flight. A gliding movement without apparent effort. 
+Soaring Flight. A gliding movement without apparent effort.
 
-Surface. The extent of planes measured on one side only. 
+Surface. The extent of planes measured on one side only.
 
 Sustaining Surface. Extent of wings or planes which lend support to an aeroplane.
 
@@ -2165,9 +2165,9 @@ Up Wind. Against the wind.
 W
 #
 
-Wake. The churned or disturbed air in the track of a moving aeroplane. 
+Wake. The churned or disturbed air in the track of a moving aeroplane.
 
-Wash. The movement of the air radiating from the sides of an aeroplane in flight. 
+Wash. The movement of the air radiating from the sides of an aeroplane in flight.
 
 Wings. Planes or supporting surfaces, commonly a pair of planes extending out from the central body.
 
