@@ -30,13 +30,15 @@ The Second Boys' Book of Model Aeroplanes
     that appeared many times in the original text.
 
 .. figure:: images/CoverImage.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Book Cover Image
 
 .. clearpage::
 
 .. figure:: images/Image1.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A model aeroplane rising from the water.
 
    A model aeroplane rising from the water.
@@ -145,19 +147,22 @@ The general tendency is in the direction of greater simplicity in design in pass
 If the development of model aeroplanes leads the way in perfecting heavier-than-air machines, as many believe, the monoplane form seems destined to replace all multiplane types. During the past year practically all of the biplane forms have been abandoned by model builders. As a result of wide experiments, it has been found that the monoplane exerts more sustension per unit of surface than any two or three-plane machines. In theory, it is, of course, possible to increase the sustained force by setting one plane above another, but in practice it has been found that the planes must be set so far apart that the arrangement is impracticable. When planes are separated, they must, of course, be stayed and trussed to keep them rigid, and all this adds to the weight and complexity of the machine.
 
 .. figure:: images/Image2a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A good specimen of plane building.
 
    A good specimen of plane building.
 
 .. figure:: images/Image2b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Propeller
 
    "Finish one end of the blade before cutting away the opposite end."
 
 .. figure:: images/Image2c.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Model aeroplane. Designed by Cecil Peoli.
 
    Model aeroplane. Designed by Cecil Peoli.
@@ -181,13 +186,15 @@ Much has been learned about motors. It has been found that the rubber motor is c
 All the best models this year are equipped with twin propellers. It is very little more trouble to build two motors than one, and the model thus equipped will not only travel much further, but will insure much more stable flights. A common trouble in model building has been the lack of stability. Your model has been likely to capsize, even under favorable conditions, spoiling the flight, while a chance gust of wind would knock it out of its course in spite of everything you could do. To overcome this tendency, the surface of the planes might be increased, but this added to the weight of the model, thus cutting down the length of the flights. The twin propellers cut at the root of the problem. They balance the thrust, thus making the flight even and stable. The planes may also be made much smaller with a gain in weight which, in turn, lengthens the flight.
 
 .. figure:: images/Image3a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A variation on a familiar form.
 
    A variation on a familiar form.
 
 .. figure:: images/Image3b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An excellent model designed and built by H. Wakkins.
 
    An excellent model designed and built by H. Wakkins.
@@ -200,19 +207,22 @@ Within the year, exhibitions and contests of model aeroplane flights have become
 The first formal exhibition or professional appearance of the model aeroplane in public as an entertainment was made in connection with the first aviation meet held at Asbury Park, New Jersey. Two of the most successful model builders, Percy Pierce and Frank Schoeber, of the New York Model Aero Club, were engaged to give exhibition flights for one hour a day in the intervals between the flights of Arch Hoxey, Johnston and other aviators of the Wright Brothers staff.
 
 .. figure:: images/Image4a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An original design by Harry McAllister
 
    An original design by Harry McAllister
 
 .. figure:: images/Image4b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An interesting experiment in stability
 
    An interesting experiment in stability
 
 .. figure:: images/Image4c.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An early model built by E.G. Halpine
 
    An early model built by E.G. Halpine
@@ -242,13 +252,15 @@ An official starter, a measurer, and an entry clerk are stationed at each point 
 Instantly the whistle sounded, the model signaled was released without a moment's delay. In this way no two models were ever started at the same time, and all confusion was avoided. The whistle was clearly heard in all parts of the hall, and the audience quickly learned to recognize the signals and look to the point from which the start took place. In the distance flights the one flying the model and the measurer alone were allowed to go after the machine. This was done on the run. It is important that any delay be avoided in measuring, since this does not interest the public in the least, and may make the exhibition drag.
 
 .. figure:: images/Image5a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An interesting experiment in stability
 
    An interesting experiment in stability
 
 .. figure:: images/Image5b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An early model built by Monroe Jacobs. Note the Ailerons.
 
    An early model built by Monroe Jacobs. Note the Ailerons.
@@ -291,7 +303,8 @@ A model glider, or aeroplane without a motor, will be found perhaps as entertain
 Fascinating little paper models, reproducing the famous man-carrying machines, the Wright, Bleriot, and others, may be put together in a few minutes. With a little adjustment, they may be made to fly from fifty to one hundred times their length. A paper Bleriot biplane six inches in length, for instance, may be made to sail for from twenty-five to fifty feet, and so on. This will be the actual horizontal distance traversed; the actual distance measured in long, undulating curves may be considerably more. Such flights do not consist merely of a long diagonal to earth, but of several surprising upward sweeps, well worth the trouble of construction. It is interesting to note the remarkable stability of their gliders.
 
 .. figure:: images/Image6.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A Simple Model Glider
 
    A Simple Model Glider
@@ -299,13 +312,15 @@ Fascinating little paper models, reproducing the famous man-carrying machines, t
 An hour's entertainment, no less interesting than instructive, may be enjoyed with a series of these paper gliders. A different model might be prepared for each guest, and a prize or favor offered for the longest or best spectacular flight. The little gliders will cross a large room before coming down. The various aeroplanes nowadays are so familiar that in any gathering will be found several who favor, for instance, a Wright over a Curtiss take a lively interest in the rivalry of the various models.
 
 .. figure:: images/Image7a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An effective glider built by R.S. Barnaby
 
    An effective glider built by R.S. Barnaby
 
 .. figure:: images/Image7b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An efficient sling-shot glider built by John Roche
 
    An efficient sling-shot glider built by John Roche
@@ -336,7 +351,8 @@ THE SLING-SHOT GLIDER.
 A fascinating field of experiment is opened by combining the sling-shot principle with the ordinary glider. The speed with which one can launch a glider from the hand is, of course, limited. Now use a small strand of rubber to launch the planes, and the increased speed will not only lengthen the flight surprisingly but make possible a really remarkable spectacular flight. A small glider may be made to return to the starting point or even loop the loop two or three times before touching the ground. By a simple adjustment of the planes, these curves may be varied indefinitely.
 
 .. figure:: images/Image8.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Designs for Sling-Shot Gliders.
 
    Designs for Sling-Shot Gliders.
@@ -344,19 +360,22 @@ A fascinating field of experiment is opened by combining the sling-shot principl
 When you have adjusted your glider to fly well, try the same arrangement of planes on a piece of reed, say eight inches in length, and bend the end over in the form of a hook. By heating the cane over a flame, you can make it turn without breaking and hold its position. Now loop a single rubber band over your thumb and forefinger, and passing the hook over the rubber, pull back exactly as you would use a sling shot. As you release the glider, pull your other hand quickly out of range. By using a heavier paper, one which will hold its shape, and turning the forward edges up slightly, the glider may be made to travel upward in a variety of graceful curves.
 
 .. figure:: images/Image9a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Paper Gliders. Antoinette Monoplane and Wright Biplane
 
    Paper Gliders. Antoinette Monoplane and Wright Biplane
 
 .. figure:: images/Image9b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An excellent glider with wooden planes
 
    An excellent glider with wooden planes
 
 .. figure:: images/Image9c.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A covered-frame sling-shot glider
 
    A covered-frame sling-shot glider
@@ -397,13 +416,15 @@ A well-stocked tool chest will be of great assistance to the builder of model ae
 A fine gimlet, or a needle drill, will be found useful in a score of ways. They cost but a few cents. A handle which may be adjusted to drills of different size is best. A drill one thirty-second of an inch in diameter will be found especially useful. The parts of your model are likely to be delicate and easily split, even while driving a small brad. You can avoid the danger of splitting by first using the needle drill, even for small brads, and then enlarging the hole, if necessary, with a larger drill or a gimlet.
 
 .. figure:: images/Image10a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Percy Pierce launching a model
 
    Percy Pierce launching a model
 
 .. figure:: images/Image10b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A French model built of aluminium
 
    A French model built of aluminium
@@ -411,7 +432,8 @@ A fine gimlet, or a needle drill, will be found useful in a score of ways. They 
 A fine saw will be found very useful,—the finer the better. The timber used for the frame is so light and soft that it is likely to split. A gig saw will be found just the thing for cutting out propeller blanks and other parts, but it is not essential. If your model be made of metal, a small soldering iron will, of course, be found indispensable,—the smaller the better. The metal parts are very delicate, and the iron should have as fine a point as possible. Such an iron can be obtained at a hardware store for a few cents. If you do not know how to solder neatly consult some tinsmith.
 
 .. figure:: images/Image11.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Diagram for making the planes
 
    Diagram for making the planes
@@ -425,13 +447,15 @@ One of their discoveries has been balsic wood, which is of a feather weight. It 
 In all the search for materials nothing has been found to compare with bamboo for lightness and strength. A number of successful model aeroplanes have been built this year in which the central sticks and frames are built entirely of bamboo. Bamboo is especially valuable in constructing the smaller members. It can be bent either by the dry-heat process, described elsewhere, or by steaming. Bear in mind that the strongest part of the stick lies just beneath the hard glazed outer surface. The only drawback of bamboo is a tendency to split at the ends. The extreme lightness of the material on the other hand makes it possible to make rigid joints by glueing and winding with fine thread touched with glue.
 
 .. figure:: images/Image12a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Working drawing of the Flemming Williams model
 
    Working drawing of the Flemming Williams model
 
 .. figure:: images/Image12b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An imported Flemming Williams model. English record 2600 feet.
 
    An imported Flemming Williams model. English record 2600 feet.
@@ -445,7 +469,8 @@ The built-up motor bases, on the other hand, make a more attractive model to the
 Your frame may be considerably lightened by using hollow sticks or shafts in place of solid members. A stick three-fourths of an inch wide formed of light lath one-eighth of an inch thick will weigh no more than a solid piece one quarter of an inch square. Such a member is stronger than the small, solid stick; it bends less readily under the pull of your motors, and renders the entire frame far more rigid. It will also be found much more satisfactory to mount the planes upon such a frame.
 
 .. figure:: images/Image13.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Wing
 
 A little practice will enable you to make a very satisfactory stick of this pattern. Secure a light strip one-eighth of an inch thick and of a width one-eighth of an inch less than that of the stick you intend to build. A one-inch stick is probably larger than you will need. The following directions are intended for a stick three-fourths of an inch square.
@@ -461,7 +486,8 @@ The H-shaped-section stick is rather more difficult to build, but it will be fou
 The motor frame may be still further lightened by using a trussed frame. The weight of this member may be cut in two in this way without sacrificing its strength. To build such a part secure two strips of wood one-eighth of an inch thick, one inch in width, and cut to the desired length. Now from the same material cut six blocks, one-half an inch in length, and set these at regular intervals along one side of the strip. They may be glued or nailed in position, or both. A small brad will hold them in place. In working with such delicate material it will be well to first drill the holes with a fine drill. Next fasten the second strip above them, nailing and glueing as before.
 
 .. figure:: images/Image14.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Storing energy for a long distance flight
 
    Storing energy for a long distance flight
@@ -498,13 +524,15 @@ You will find that your model, if its wings have a spread of thirty inches os th
 The planes used on this season's models are marvels of lightness and strength. Much has been learned by studying the methods employed by the builders of man-carrying aeroplanes. It is a simple matter to build a three-foot plane which weighs complete less than one ounce, and is strong enough to withstand many a violent shock.
 
 .. figure:: images/Image15a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A geared model built by Leslie V. Robinson
 
    A geared model built by Leslie V. Robinson
 
 .. figure:: images/Image15b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An ingenious biplane
 
    An ingenious biplane
@@ -542,13 +570,15 @@ In the search for the lightest possible covering, some builders have gone a litt
 There is, of course, a very obvious objection to paper that it is easily punctured, but on the other hand, such accidents are very easily repaired. A bad rip may be patched up with a touch of paste, or, the plane may be re-covered very quickly. With this paper care must be taken to fasten it to the frame of the plane as securely as possible, as a loose sheet will flutter and increase the head resistance.
 
 .. figure:: images/Image16a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A well-proportioned model built by Reginald Overton
 
    A well-proportioned model built by Reginald Overton
 
 .. figure:: images/Image16b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A good model intended for long distance work built by A. C. Odom
 
    A good model intended for long distance work built by A. C. Odom
@@ -575,19 +605,22 @@ Ever since windmills were first set up, men have been studying the merits of dif
 In a windmill a current or cylinder of air flows, of course, against the propeller. The blades must be shaped and spaced with this in view. Reverse the action of the windmill, and the propeller proves inefficient. The broad blades will stir up a current of air, to be sure, but a very weak one. A revolving fan solves a very different problem in detaching a cylinder of air from the atmosphere and propelling it with the greatest possible momentum. Here, again, the propellers must be differently modeled and spaced. Neither the reversed windmill propeller nor the electric fan, however, would serve to drive an aeroplane.
 
 .. figure:: images/Image17a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A beautiful monoplane built by R. Mungokee
 
    A beautiful monoplane built by R. Mungokee
 
 .. figure:: images/Image17b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Detail of a model built by R. Mungokee
 
    Detail of a model built by R. Mungokee
 
 .. figure:: images/Image17c.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An ingenious application of the dihedral angle
 
    An ingenious application of the dihedral angle
@@ -597,7 +630,8 @@ The propeller of an aeroplane must cut its way smoothly, pressing the air backwa
 There is at present no standard form of propeller for the man-carrying or model aeroplane. One school of designers favors a small blade revolved at high speed, while others claim that a larger propeller driven more slowly is more efficient. As a general rule it may be laid down that a model with a span of thirty inches should be driven by twin propellers eight inches in length or diameter. They should have a speed of about 1,200 revolutions per minute, or at the rate of some 200 turns every ten seconds. To test the strength of your motor, give the propeller 200 or 400 turns, and watch in hand, find how long it takes to run down.
 
 .. figure:: images/Image18.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Diagram Showing How To Make A Propeller From A Wooden Blank
 
    Diagram Showing How To Make A Propeller From A Wooden Blank
@@ -605,7 +639,8 @@ There is at present no standard form of propeller for the man-carrying or model 
 There is much difference of opinion as to the proper modeling of the propeller. It has been worked out by elaborate equations that the blade should be concave and yet in actual tests it has been found that some machines are driven faster by a flat blade propeller. By a flat screw we mean a straight pitch propeller, or one in which the angle does not vary from the hub to the tip. When Mr. Glenn H. Curtiss made his famous record flight at Rheims, he used a straight pitch propeller, and when, later, his machine was equipped with propellers scientifically curved, his aeroplane lost speed. Evidently the exact relation of propeller forms to the machine still remains much of a mystery.
 
 .. figure:: images/Image19.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Design of Metal Propeller
 
    Design of Metal Propeller
@@ -619,13 +654,15 @@ To understand the theory of the propeller, bear in mind the principle of the act
 The curve of the propeller blade near the hub is made much higher than further on because this part travels more slowly, and it is important that the cylinder of air set in motion by the blade should have the same velocity throughout its diameter. The blade is made widest at its outer end, since this is the most effective surface and is expected to do the greatest amount of work. The other end of the propeller blade is rounded off in order that the air may slip away, thus avoiding skin friction, which at this point is naturally high.
 
 .. figure:: images/Image20a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A test of high aspect ratio planes
 
    A test of high aspect ratio planes
 
 .. figure:: images/Image20b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A modified Bleriot built by Cecil Peoli
 
    A modified Bleriot built by Cecil Peoli
@@ -633,7 +670,8 @@ The curve of the propeller blade near the hub is made much higher than further o
 The width of the propeller blade has been the subject of an immense amount of investigation and discussion. The friends of both the wide and narrow blade back up their arguments with complicated equations, which it would only be confusing to repeat. It is argued by some authorities that since the narrow blade does not stir up the air as long a time as the wide blade, therefore one blade does not stir up the air enough to interfere with the action of the second blade.
 
 .. figure:: images/Image21.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Langley Propeller Blade
 
    Langley Propeller Blade
@@ -657,13 +695,15 @@ Some designers carry the curve of the propeller blade to the center of the axle,
 Many successful builders of model aeroplanes now carve their propellers from solid blocks of wood. This method, to be sure, allows the designer to shape the propeller blades with more freedom than with the ordinary or built-up propeller, and of course does away with much of the preliminary work. So great is the demand for the one piece propellers that the manufacturers of accessories now prepare "propeller blanks" or pieces of wood in a variety of sizes ready to be carved. The one-piece propeller is likely to split, but they are easy to make, and this work is a very fascinating kind of whittling.
 
 .. figure:: images/Image22a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A combination of several interesting features
 
    A combination of several interesting features
 
 .. figure:: images/Image22b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A skilful adjustment of the front plane and skid built by Percy Pierce
 
    A skilful adjustment of the front plane and skid built by Percy Pierce
@@ -673,7 +713,8 @@ Propeller blanks are easily prepared in case you find it inconvenient to buy the
 The propeller used by the Wright Brothers on their machines is very simple to construct. Prepare a propeller blank eight inches in length, two in width and three-fourths of an inch in depth. Draw two lines parallel with the longer sides, the first seven-eighths of an inch and the second one and one-eighth inches back. Now at the upper right-hand corner mark off a point one and one-half inches from the end, and from the opposite corner on the lower base the same dimension. Connect these two points.
 
 .. figure:: images/Image23.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Wright Propeller Blade
 
    Wright Propeller Blade
@@ -694,13 +735,15 @@ FABRIC PROPELLERS
 The most nearly indestructible propellers are the fabric screws. They are also doubtless the lightest form. The blades will, of course, be perfectly flat, making straight pitch propellers. You will need a small cylindrical piece of wood one half an inch in diameter, and one half an inch in height, of some tough, hard wood. The blades may be made of reed or cane, or, still better, of wire. Aluminum wire being very light is probably the best for the purpose. Bend the wire into the form of a triangle two inches in width and four inches in length. Determine at what angle you wish them to be set, and bore holes in the hub and fix wires of each frame firmly in them. Cover the frames neatly with cloth and mount it in the usual way.
 
 .. figure:: images/Image24a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An efficient model, showing excellent construction, designed by John Caresi
 
    An efficient model, showing excellent construction, designed by John Caresi
 
 .. figure:: images/Image24b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: One of the best minimum plane models of 1911
 
    One of the best minimum plane models of 1911
@@ -720,7 +763,8 @@ In the present stage of model aeroplane building, rubber strand motors satisfy e
 In gauging the strength of your motor, much depends upon whether your model is to rise from the ground or be launched from the hand. In the model tournaments in England, the flying machines are almost invariably thrown across the starting line, while in America they are required to rise unaided. It is obviously unfair, therefore, to compare the distance records of the two countries.
 
 .. figure:: images/Image25.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A Metal Motor Anchorage
 
    A Metal Motor Anchorage
@@ -738,7 +782,8 @@ If it is desired to fly the model as far as possible, it must be kept close to t
 Try out your aeroplane with ten strands on each motor and increase them later. The motor, as previously explained, is formed by looping the rubber strands loosely between the hooks, just as zephyr is wound on a skein. Keep the strands very loose and fasten them to the hooks by tying with a strand of rubber. In winding, do not turn the propeller after the rubber has a double row of knots for its entire length. Such a motor should take up from three hundred to five hundred turns, perhaps more. Do not keep the elastic wound up too long before starting your flight. The strain is great and it quickly wears out.
 
 .. figure:: images/Image26.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A Metal Motor Anchorage
 
    A Metal Motor Anchorage
@@ -746,13 +791,15 @@ Try out your aeroplane with ten strands on each motor and increase them later. T
 The rubber strands should not be allowed to come in contact with any metal parts of the model. The copper that is often used for wiring is especially injurious and tends to decompose the rubber. The hooks of both the propeller and motor anchorage should be covered with a piece of rubber tubing. This serves a double purpose. With this protection, the rubber when tightly twisted is in no danger of being cut by the wire or of taking up the oxides which quickly eat through it.
 
 .. figure:: images/Image27a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A notable model possessing unusual stability. Built by W.S. Howell, Jr.
 
    A notable model possessing unusual stability. Built by W.S. Howell, Jr.
 
 .. figure:: images/Image27b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Front view of model built by W.S. Howell, Jr.
 
    Front view of model built by W.S. Howell, Jr.
@@ -768,7 +815,8 @@ Experiments have been made with a single strand of rubber one-fourth of an inch 
 Figures have been prepared giving the exact relation of the size of rubber to the number of turns, although such statistics are elastic. The problem may be worked out with your own motor. Differences of temperature will be quickly noted. The rules prepared by V. E. Johnson, M.A., an English authority on aviation, are as follows: The motive power is doubled by increasing the number of rubber strands one-half; by doubling the number of strands, the motive power is increased more than two times; and the tripling of the strands increases the motive power seven times. As regards the number of turns the same authority states that the doubling of the number of strands diminishes the number of turns by one-third to one-half.
 
 .. figure:: images/Image28.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A Metal Skid
 
    A Metal Skid
@@ -786,13 +834,15 @@ Several metal washers should be strung on the axle between the upper edge of the
 The projecting tube will serve also to remove the propeller far enough from the frame to prevent its striking. By freely oiling these parts, the propeller may be made to turn very freely.
 
 .. figure:: images/Image29a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An ingenious adjustment of ailerons
 
    An ingenious adjustment of ailerons
 
 .. figure:: images/Image29b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Tuning up the model for a flight.
 
    Tuning up the model for a flight.
@@ -806,7 +856,8 @@ To arrange your motor for winding with a drill, run the axle through the propell
 A very simple and ingenious method of winding up has been adopted in the remarkable model constructed by Mr. Mungokee. The motor is anchored by running the wire holding the strands through the supporting stick of the base, and bending the end into a hook which, as the rubber pulls, is held securely in a second hole at the side.
 
 .. figure:: images/Image30.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Showing Construction And Mounting Of Propeller And Axle.
 
    Showing Construction And Mounting Of Propeller And Axle.
@@ -828,13 +879,15 @@ In mounting your propeller, it is well to make the support for the bearing of th
 It is a good plan to lengthen the shaft by attaching a block of wood to the frame and passing the axle through it. Cut from a strip one-half an inch square a piece one inch in length, or whatever seems necessary. This may be mortised slightly into the stick and glued at right angles.
 
 .. figure:: images/Image31a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An excellent monoplane capable of long flights.
 
    An excellent monoplane capable of long flights.
 
 .. figure:: images/Image31b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Long-distance model built by Percy Pierce.
 
    Long-distance model built by Percy Pierce.
@@ -842,7 +895,8 @@ It is a good plan to lengthen the shaft by attaching a block of wood to the fram
 Now drill a hole through the stick, with the grain, and the stick of your motor base and pass the tube holding the propeller shaft through both. To make this look shipshape, round off the edges. A great advantage of this stick is that it enables you to mount the propeller as far as you like from the frame, thus preventing it from striking.
 
 .. figure:: images/Image32.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Showing An Excellent Way Of Fastening The Propellers To The Framework.
 
    Showing An Excellent Way Of Fastening The Propellers To The Framework.
@@ -866,13 +920,15 @@ You will need a sheet of metal heavy enough to withstand the full force of the m
 Now bend the tin on the two upright lines until the two sides are parallel. This support is fitted to the end of a motor base and secured by driving nails through the three holes at the base covering the wood. The end of the hook which holds the rubber strands of the motor should be passed through the opening at the end, bent over and fastened into position with a drop or two of solder. Such a support adds practically nothing to the weight of the frame, and obviously anchors the motor rigidly.
 
 .. figure:: images/Image33a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Model built by Rutledge Barry, winner of spectacular flight contest.
 
    Model built by Rutledge Barry, winner of spectacular flight contest.
 
 .. figure:: images/Image33b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A model by Percy Pierce, winner of the indoor long-distance record.
 
    A model by Percy Pierce, winner of the indoor long-distance record.
@@ -901,10 +957,11 @@ The strands thus prepared slide smoothly on one another and do not grip each oth
 
 The direction flights may be controlled very easily by winding the motor. If you care to fly your model in circles or spirals, the simplest plan for influencing its direction is to give different power to your propellers. It often happens that a model must be in a restricted place, perhaps a straight-away flight is out of the question.
 
-The model may be deflected to the right or left by the use of vertical propellers, but they require delicate adjustment, and a gust of wind may destroy their effect. B y winding up one double the number of turns of the other, a circular flight is assured. To gauge the diameter of the circle merely alter the relation of the number of turns. You will soon find that you can control the diameter of the circle with remarkable accuracy.
+The model may be deflected to the right or left by the use of vertical propellers, but they require delicate adjustment, and a gust of wind may destroy their effect. By winding up one double the number of turns of the other, a circular flight is assured. To gauge the diameter of the circle merely alter the relation of the number of turns. You will soon find that you can control the diameter of the circle with remarkable accuracy.
 
 .. figure:: images/Image34a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 25 %
    :alt: A Motor Anchorage
 
    A Motor Anchorage
@@ -912,7 +969,7 @@ The model may be deflected to the right or left by the use of vertical propeller
 CHAPTER VIII DIRECTIONAL CONTROL
 ````````````````````````````````
 
-THE unerring flight of birds is, of course, the model for the builders of heavier-than-air machines. Much of the birds' skill in directing their motive power remains a mystery to us, but we are learning to analyze and, in a measure, imitate them. The builder of model aeroplanes again must not alone imitate the methods of the birds; he must make their system of maintaining stability automatic. A study of a variety of successful models shows that there is great difference of opinion as to the best plan for stabilizing the aeroplane.
+The unerring flight of birds is, of course, the model for the builders of heavier-than-air machines. Much of the birds' skill in directing their motive power remains a mystery to us, but we are learning to analyze and, in a measure, imitate them. The builder of model aeroplanes again must not alone imitate the methods of the birds; he must make their system of maintaining stability automatic. A study of a variety of successful models shows that there is great difference of opinion as to the best plan for stabilizing the aeroplane.
 
 Directional stability is gained by the use of horizontal elevators or tails for controlling vertical movement, by vertical rudders or fins for steering to right or left, and by flexible wing tips to guard against tipping.
 
@@ -927,13 +984,15 @@ They have thus done away with the friction encountered by the front planes, whic
 In designing rudders for controlling horizontal flight, it should be borne in mind that their stabilizing power varies largely in proportion to their distance from the center of gravity. In most models the further they are removed, either front or back, the greater is their leverage, and the smaller need be their surface. By placing the rudder on an outrigger carried far out, a very small plane will suffice.
 
 .. figure:: images/Image34b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Illustrating the proper position of right and left propellers
 
    A serviceable model showing excellent workmanship built by Cecil Peoli
 
 .. figure:: images/Image34c.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A serviceable model showing excellent workmanship built by Cecil Peoli
 
    A serviceable model showing excellent workmanship built by Cecil Peoli
@@ -948,7 +1007,8 @@ The use of wing tips of any form is intended to control both the horizontal and 
 
 
 .. figure:: images/Image35.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Various Steering Devices
 
    Various Steering Devices. "a" and "b," simple aileron forms. "A" novel fin on Vinet plane. "B" L-shaped aileron. "C" vertical rudder (Bleriot type). "D" "Blinkers," an effective rudder. "E" stability planes not unlike the runners of a sleigh.
@@ -993,13 +1053,15 @@ Whether one be designing the simplest paper glider, a model or a passenger-carry
 When a gust of wind forces the front plane upward, the rear plane swings down. This movement increases the angle of both planes to the horizontal; they offer much greater resistance to the air, and the speed of the machine is checked. As the aeroplane slows down, as a rule, it tries to right itself, that is, to seesaw back to balance at a horizontal position. This in turn reduces the resistance the planes offer to the wind, and the flight is continued at its original speed.
 
 .. figure:: images/Image36a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Illustrating the proper position of right and left propellers
 
    An excellent piece of workmanship. Model by R. Mungokee
 
 .. figure:: images/Image36b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Model with minimum plane surface. Built by A. C. Odom
 
    Model with minimum plane surface. Built by A. C. Odom
@@ -1014,7 +1076,8 @@ THE FAMOUS "ONE OUNCER."
 The one-ounce models, which have been brought to such perfection in England, are among the simplest aeroplanes to build. Fig. A models have a record of 1,500 feet. The adjustment is delicate, however; it is a very "tricky" affair to manage, and whether you can get the remarkable flights made abroad is another matter. For the stick, select a piece of straight-grained ash or some light wood three feet in length and one-quarter of an inch square. The planes should be cut from a thin board one-sixteenth of an inch thick. The main plane should measure fifteen inches by three inches, and the smaller plane eight by one and a half inches, thus giving them a high aspect ratio. They should taper slightly towards the ends. Round off the corners of both planes and sandpaper the edges down. If the wood will stand it, work it down, using a sharp plane or sandpaper. The planes should be bent by steaming slightly across the middle and set at a slight dihedral angle.
 
 .. figure:: images/Image37.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A — The Famous "one Ouncer." B — A Small Experimental Model. C — A Modified Burgess Webb Model.
 
    A — The Famous "one Ouncer." B — A Small Experimental Model. C — A Modified Burgess Webb Model.
@@ -1031,7 +1094,8 @@ There are many forms of such planes this year which are marvels of lightness and
 A model which rises unassisted requires considerable power and your propellers should have eight-inch blades and be carved from blanks one inch thick. You may find it advisable later on to install propellers with very broad blades. First install motors of considerable power, each consisting of twelve or fourteen one-eighth-inch rubber strips. You will not get more than two or three hundred turns out of them, but with a high-pitch propeller this will give you an excellent flight, say 200 feet.
 
 .. figure:: images/Image38.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Model With Minimum Plane Surface.
 
    Model With Minimum Plane Surface.
@@ -1054,13 +1118,15 @@ Your propeller should measure four inches in diameter. A propeller cut from a bl
 Before stringing the rubber strands between the two hooks of your motor, be sure that the hooks are bent back, so that the strands will be in a line with the bands. The bearings should be carefully oiled. In flying out of doors, there is danger of getting fine sand or dirt in the bearings which, of course, greatly increases the friction. Try out your motor with four strands of rubber one-eighth of an inch square. The rubber sold for one-eighth inch is often a trifle under this measurement. The propeller should, of course, be mounted with the shorter or curved edge forward. In winding your motor, never turn it after the second row of double knots begin to appear, and do not keep your propeller wound a second more than is necessary before a flight.
 
 .. figure:: images/Image39a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An American Fleming Williams built by C. McQueen
 
    An American Fleming Williams built by C. McQueen
 
 .. figure:: images/Image39b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: One of the earlier models built by Cecil Peoli
 
    One of the earlier models built by Cecil Peoli
@@ -1097,7 +1163,8 @@ A MODEL WITH ADJUSTABLE STABILIZERS.
 A serviceable model may be built up with flat planes equipped with ailerons both at the rear and outer ends of the planes. These tips make it possible to control both the horizontal and vertical movement, and permit a great many adjustments impossible with other models. The motor base may be borrowed from some earlier model. It should be fairly heavy. A rectangle measuring ten by forty inches built of one-half inch strips will be found sufficiently rigid. The sides should be braced by a cross piece at the middle. The ends and central strut may be made of some form of truss, if desired. One of the simplest means of providing supports for the axles of the propellers is to carry the stick at the rear, one and a half inches beyond the side pieces, and pass the axle through a hole drilled one-half an inch from the end.
 
 .. figure:: images/Image40.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A Model With Adjustable Stabilizer.
 
    A Model With Adjustable Stabilizer.
@@ -1120,7 +1187,8 @@ For the frame secure two light sticks three-sixteenths of an inch square of some
 To assemble the model, connect the forward ends of the sticks carrying the motors by a piece of reed bent to a half circle, by merely binding the ends firmly together. The sticks should diverge so that the propellers will be about ten inches apart, giving plenty of room for the propellers to turn without striking one another. Next fasten the larger plane in position across the top of the sticks, and about two inches away from the propellers, making the plane serve as a cross piece to hold them firmly in position. The strands of the motor should preferably be carried above the plane. This plan does away with the rear stick of the motor base, thus saving this weight. Adjust the parts very carefully, that the frame will be rigid enough to stand the strain of the motor.
 
 .. figure:: images/Image41.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An Efficient Three-ounce Model.
 
    An Efficient Three-ounce Model.
@@ -1133,7 +1201,8 @@ AN ALL-METAL MODEL FRAME.
 In a previous paper, it was suggested that the motor base be made of tubes of aluminum. The idea has been carried further, and attractive frames are now constructed in which not only the main frame is constructed of metal tubing, but the cross piece supporting the propellers and the braces as well are of the same material. The new metal, "magnalium," has been used successfully for this purpose. It is a trifle heavier than aluminum, but much stronger, and almost as easy to work. In England, the motor base is sometimes made of metal tubing one inch in diameter, and the rubber motor is passed through the tube itself.
 
 .. figure:: images/Image42.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An All-metal Model Frame.
 
    An All-metal Model Frame.
@@ -1148,13 +1217,15 @@ A very light single-stick model may be built of bamboo rods, which will stand an
 Build two serviceable planes. The larger one, which should be carried in the rear, should measure about twenty-four inches by eight, and the front plane twelve by four inches. Since your frame is very light and strong, there is no need to economize weight. By carrying the braces running from the cross sticks well out on the stick, you can provide a broad support for the planes. Tie the wings on the motor base with strands of rubber. In landing they will then give enough to save a bad smash.
 
 .. figure:: images/Image43a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: One of the best models of the year, built by John Caresi
 
    One of the best models of the year, built by John Caresi
 
 .. figure:: images/Image43b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An excellent model, showing careful attention to details. Built by L. V. Brooks
 
    An excellent model, showing careful attention to details. Built by L. V. Brooks
@@ -1198,13 +1269,15 @@ Much more attention is paid to designing the skids for model aeroplanes in Ameri
 Nothing has been found better for building skids than cane or bamboo. A chassis may be made of these materials which will weigh but a fraction of an ounce, so that even the most elaborate skids will add but little weight. They are, besides, exceedingly elastic, which makes them easy to work, while this quality enables them to take up the shock of a violent landing. The thinnest sizes are best for our purposes. The reed one-eighth of an inch in diameter will answer for all ordinary models. To prepare reed for working, soak it for an hour. Another plan is to heat it slightly over a flame, when it may be bent with little danger of breaking. In case of a bad smash during a meet such skids may be readily pieced out and repairs made so quickly that the model need not be kept long out of the contest.
 
 .. figure:: images/Image44a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A model with limited plane area built by R. Barry
 
    A model with limited plane area built by R. Barry
 
 .. figure:: images/Image44b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An interesting experiment in metal frame building by R. Fisher
 
    An interesting experiment in metal frame building by R. Fisher
@@ -1253,13 +1326,15 @@ In experimenting with gears it will be well to begin with but two sets of strand
 Compressed-air motors have not yet been developed to a form practical for use in small model aeroplanes.
 
 .. figure:: images/Image45a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: An aeroplane of simple construction that flies remarkably well, built by R. S. Barnaby
 
    An aeroplane of simple construction that flies remarkably well, built by R. S. Barnaby
 
 .. figure:: images/Image45b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A remarkable model built by John Caresi
 
 A number of inventors are at work on this problem and high hopes are entertained that a practical form of compressed-air engine will soon be invented. An unlimited supply of compressed air may of course be carried without adding to the weight of the model. It costs nothing again to get a supply. Anyone with a bicycle pump can get up enough energy for his model as easily as he can inflate a bicycle tire. The best compressed-air engines at present weigh from one-third to one-half as much as the model they drive, and will run only from ten to thirty seconds.
@@ -1310,19 +1385,22 @@ The Baldwin biplane has introduced a new feature for obtaining stability which m
 Many builders of model aeroplanes have introduced a similar vertical plane directly above the main plane, or have placed it well forward at the extreme front of the motor base. By removing this rudder as far as possible from the main supporting surface, it exerts a greater leverage, and a very small plane carried well forward will be more effective than a larger plane directly above the main supporting surface. It has the disadvantage of catching any chance side current and thereby knocking the aeroplane off its course.
 
 .. figure:: images/Image46a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Percy Pierce, winner of the distance record
 
    Percy Pierce, winner of the distance record
 
 .. figure:: images/Image46b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A well-proportioned model, capable of long flights
 
    A well-proportioned model, capable of long flights
 
 .. figure:: images/Image46c.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A well designed aeroplane built by James MacPherson
 
    A well designed aeroplane built by James MacPherson
@@ -1373,13 +1451,15 @@ In the case of a model driven by a single motor, the propeller shaft should pass
 My aeroplane starts off all right but often begins to rock from side to side like a cradle and then flutters to the ground. How can I prevent this?
 
 .. figure:: images/Image47a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A beautiful model built by Stewart Easter
 
    A beautiful model built by Stewart Easter
 
 .. figure:: images/Image47b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A successful model of 1910 built by E. G. Halpine. Note contrast in plane area
 
    A successful model of 1910 built by E. G. Halpine. Note contrast in plane area
@@ -1463,13 +1543,15 @@ It is not a good plan to launch the machine at a higher speed than that at which
 My machine flies very well indeed, but I cannot make it start from the ground. When I add more power it swerves to one side and will not fly off. What would you advise?
 
 .. figure:: images/Image48a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Percy Pierce launching a prize-winning model
 
    Percy Pierce launching a prize-winning model
 
 .. figure:: images/Image48b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Launching the sling-shot gliders
 
    Launching the sling-shot gliders
@@ -1537,13 +1619,15 @@ Has the model aeroplane any practical commercial utility?
 Probably not, unless we take seriously the suggestion of a writer on aerial warfare, who believes they will some day be so perfected that they may be used to drop bombs or high explosives over forts or besieged cities. His suggestion is that hundreds of model aeroplanes equipped with miniature engines might be released in a swarm, each carrying a deadly explosive which would be dropped automatically at a certain time. It would be impossible, he argues, for gunners to bring down an entire fleet of these swiftly moving machines, and so while many of them might fall short enough would succeed in dropping their missiles to make them an exceedingly dangerous weapon. The writer points out that the expense of such a mosquito fleet would be trifling compared with the cost of the ordinary engines of warfare and might be operated without risking any lives.
 
 .. figure:: images/Image49a.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: A tractor with large plane forward built by F. W. Curtis
 
    A tractor with large plane forward built by F. W. Curtis
 
 .. figure:: images/Image49b.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Model built by William Robinson
 
    Model built by William Robinson
@@ -1599,7 +1683,8 @@ In point of workmanship few of the model aeroplanes which have appeared at the m
 The finest scale model aeroplane in America to-day is doubtless the biplane built by Mr. Karl H. De Leon, illustrated on the cover of this volume. Its great size is indicated by comparison with the boys standing about it. The most delicate workmanship is to be found in every detail. The planes are controlled by a complete system of wires and levers centered at the driver's seat, exactly as in the large man-carrying machines.. The wings may be flexed and the guiding rudders turned from side to side or their angle elevated or depressed by the slightest movement of the controlling devices. The model is equipped with a miniature Gnome engine especially imported for the purpose. The materials employed in constructing this model alone cost upwards of $500. The model embodies several original features, the inventions of the builder.
 
 .. figure:: images/Image50.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Front view of the De Lion model
 
    Front view of the De Lion model
@@ -1636,7 +1721,8 @@ Cold weather on the other hand tends to increase the density of the air. The spe
 One of the curiosities of the air is the effect of eddies created by the passage of aeroplanes. Let an aeroplane move fast enough through the air and it will create high density above its course, and low density below its line of flight. This condition may also be found in the wake of model aeroplanes. It will often be noticed when two models are flying near together that the disturbance caused by one will seriously interfere with the second machine. The contrast between the air above and below the models in flight in especially noticeable when the planes are flexed.
 
 .. figure:: images/Image51.jpg
-   :scale: 50 %
+   :align: center
+   :scale: 85 %
    :alt: Two of the earlier Peoli models
 
    Two of the earlier Peoli models
@@ -1952,226 +2038,309 @@ DICTIONARY OF AERONAUTICAL TERMS
 A
 #
 
-Aerodrome. A tract of land selected for flying purposes.
+Aerodrome. 
+    A tract of land selected for flying purposes.
 
-Aerodynamics. The science of aviation, literally the study of the influence of air in motion.
+Aerodynamics. 
+    The science of aviation, literally the study of the influence of air in motion.
 
-Aerofoil. A flat or flexed plane which lends support to an aeroplane.
+Aerofoil. 
+    A flat or flexed plane which lends support to an aeroplane.
 
-Aeronaut. One engaged in navigating the air.
+Aeronaut. 
+    One engaged in navigating the air.
 
-Aeronautics. The science of navigating the air.
+Aeronautics. 
+    The science of navigating the air.
 
-Aeroplane. A heavier than air machine supported by one or more fixed planes.
+Aeroplane. 
+    A heavier than air machine supported by one or more fixed planes.
 
-Aerostatics. The science of aerostation, or of buoyancy caused by displacement, ballooning.
+Aerostatics. 
+    The science of aerostation, or of buoyancy caused by displacement, ballooning.
 
-Aerostation. The science of lighter than air or gas-born machines.
+Aerostation. 
+    The science of lighter than air or gas-born machines.
 
-Aileron. The outer edge or tip of a plane, usually adjustable, used to balance or stabilize.
+Aileron. 
+    The outer edge or tip of a plane, usually adjustable, used to balance or stabilize.
 
-Airship. Commonly used to denote both heavier and lighter than air machines; correctly a dirigible balloon.
+Airship. 
+    Commonly used to denote both heavier and lighter than air machines; correctly a dirigible balloon.
 
-Angle Of Incidence. The angle of the plane with the line of travel.
+Angle Of Incidence. 
+    The angle of the plane with the line of travel.
 
-Area. In the case of planes, the extent of surface measured on both the upper and lower sides. An area of one square foot comprises the actual surface of two square feet.
+Area. 
+    In the case of planes, the extent of surface measured on both the upper and lower sides. An area of one square foot comprises the actual surface of two square feet.
 
-Aspect Ratio. The relation of a surface crossing the direction of flight with that paralleling the line of
+Aspect Ratio. 
+    The relation of a surface crossing the direction of flight with that paralleling the line of flight. 
+    
+Automatic Stability. 
+    Stability secured by fins, the angle of the planes and similar devices.
 
-flight. Automatic Stability. Stability secured by fins, the angle of the planes and similar devices.
+Aviator. 
+    One engaged in aviation.
 
-Aviator. One engaged in aviation.
-
-Aviation. The science of heavier than air machines.
+Aviation. 
+    The science of heavier than air machines.
 
 B
 #
 
-Balancer. A plane or other part intended for lateral equilibrium.
+Balancer. 
+    A plane or other part intended for lateral equilibrium.
 
-Biplane. An aeroplane with two supporting surfaces one above the other.
+Biplane. 
+    An aeroplane with two supporting surfaces one above the other.
 
-Body. The main framework supporting the plane and the machinery.
+Body. 
+    The main framework supporting the plane and the machinery.
 
 C
 #
 
-Camber. The curve measured from the cord to the highest point of the plane.
+Camber. 
+    The curve measured from the cord to the highest point of the plane.
 
-Carriage. The part on which the main body is supported on land or water.
+Carriage. 
+    The part on which the main body is supported on land or water.
 
-Center Of Gravity. The point at which the aeroplane balances.
+Center Of Gravity. 
+    The point at which the aeroplane balances.
 
-Center Of Pressure. The imaginary line beneath the plane at which the pressure balances.
+Center Of Pressure. 
+    The imaginary line beneath the plane at which the pressure balances.
 
 D
 #
 
-Deck. The main surface of a biplane or multiplane.
+Deck. 
+    The main surface of a biplane or multiplane.
 
-Directional Control. The ability to determine the direction of the flight of an aeroplane.
+Directional Control. 
+    The ability to determine the direction of the flight of an aeroplane.
 
-Dirigible. A balloon driven by power.
+Dirigible. 
+    A balloon driven by power.
 
-Down Wind. With the wind.
+Down Wind. 
+    With the wind.
 
-Drift. The resistance of the plane to the forward movement.
+Drift. 
+    The resistance of the plane to the forward movement.
 
 E
 #
 
-Elevator. The plane or wing intended to control the vertical flight of the machine.
+Elevator. 
+    The plane or wing intended to control the vertical flight of the machine.
 
-Engineer. One who controls the power, driving the machinery.
+Engineer. 
+    One who controls the power, driving the machinery.
 
-Entering Edge. Front edge of the forward plane of an aeroplane.
+Entering Edge. 
+    Front edge of the forward plane of an aeroplane.
 
-Equilibrator. A plane or other contrivance which makes for stability.
+Equilibrator. 
+    A plane or other contrivance which makes for stability.
 
 F
 #
 
-Flexed. A plane is said to be flexed when it curves upward forming an arc of a circle.
+Flexed. 
+    A plane is said to be flexed when it curves upward forming an arc of a circle.
 
-Fin. A fixed vertical plane.
+Fin. 
+    A fixed vertical plane.
 
-Flying Machine. Literally a form of lighter than air craft; a gas-born airship.
+Flying Machine. 
+    Literally a form of lighter than air craft; a gas-born airship.
 
-Following Edge. The rear edge of the plane or wing of an aeroplane.
+Following Edge. 
+    The rear edge of the plane or wing of an aeroplane.
 
-Fusilage. The body or framework of an aeroplane.
+Fusilage. 
+    The body or framework of an aeroplane.
 
 G
 #
 
-Glider. An aeroplane without motor power.
+Glider. 
+    An aeroplane without motor power.
 
-Guy. A brace, usually a wire or cord used for tuning up the aeroplane.
+Guy. 
+    A brace, usually a wire or cord used for tuning up the aeroplane.
 
-Gross Weight. The weight of the aircraft comprising fuel, lubricating oils, and the pilot.
+Gross Weight. 
+    The weight of the aircraft comprising fuel, lubricating oils, and the pilot.
 
-Gyroscope. A rotating mechanism for maintaining equilibrium.
+Gyroscope. 
+    A rotating mechanism for maintaining equilibrium.
 
 H
 #
 
-Hanger. A shed for housing an aeroplane.
+Hanger. 
+    A shed for housing an aeroplane.
 
-Harbor. A shelter for aircrafts.
+Harbor. 
+    A shelter for aircrafts.
 
-Heavier Than Air. A machine weighing more than the air it displaces.
+Heavier Than Air. 
+    A machine weighing more than the air it displaces.
 
-Helicopter. A flying machine driven upward by rotary screws on vertical shafts.
+Helicopter. 
+    A flying machine driven upward by rotary screws on vertical shafts.
 
-Helmsman. One in charge of the steering device.
+Helmsman. 
+    One in charge of the steering device.
 
 L
 #
 
-Lateral Stability. Stability which prevents side motion.
+Lateral Stability. 
+    Stability which prevents side motion.
 
-Loading. The gross weight divided by the supporting area measured in square feet.
+Loading. 
+    The gross weight divided by the supporting area measured in square feet.
 
-Longitudinal Stability. Stability which prevents fore and after motion or pitching.
+Longitudinal Stability. 
+    Stability which prevents fore and after motion or pitching.
 
 M
 #
 
-Mast. A perpendicular stick holding the stays or struts which keep the planes rigid.
+Mast. 
+    A perpendicular stick holding the stays or struts which keep the planes rigid.
 
-Model Aeroplane. A toy aeroplane, reproducing a man-carrying machine.
+Model Aeroplane. 
+    A toy aeroplane, reproducing a man-carrying machine.
 
-Monoplane. An aeroplane or heavier than air machine supported by a single main plane which may be formed of two wings extending from a central body.
+Monoplane. 
+    An aeroplane or heavier than air machine supported by a single main plane which may be formed of two wings extending from a central body.
 
-Motor. A contrivance for generating driving power.
+Motor. 
+    A contrivance for generating driving power.
 
-Multiplane. An aeroplane with more than three main planes one above another.
+Multiplane. 
+    An aeroplane with more than three main planes one above another.
 
 N
 #
 
-Nacelle. The car of a dirigible balloon, literally a cradle.
+Nacelle. 
+    The car of a dirigible balloon, literally a cradle.
 
-Net Weight. Complete weight of the machine without pilot, fuel or oil.
+Net Weight. 
+    Complete weight of the machine without pilot, fuel or oil.
 
 O
 #
 
-Ornithopter. A machine supported and propelled by planes moving in imitation of birds; a flapping wing machine.
+Ornithopter. 
+    A machine supported and propelled by planes moving in imitation of birds; a flapping wing machine.
 
-Orthogonal. A flight maintained by flapping wings.
+Orthogonal. 
+    A flight maintained by flapping wings.
 
 P
 #
 
-Plane. A surface or wing, either plain or flexed, employed to support or control an aeroplane.
+Plane. 
+    A surface or wing, either plain or flexed, employed to support or control an aeroplane.
 
-Pilot. One directing an aeroplane in flight.
+Pilot. 
+    One directing an aeroplane in flight.
 
-Pitch. Theoretical distance covered by a propeller in making one revolution.
+Pitch. 
+    Theoretical distance covered by a propeller in making one revolution.
 
-Pylon. Correctly, a structure housing a falling weight used for starting an aeroplane, commonly a turning point in aeroplane flights.
+Pylon. 
+    Correctly, a structure housing a falling weight used for starting an aeroplane, commonly a turning point in aeroplane flights.
 
-Propeller. The screw used for driving an aeroplane, plane.
+Propeller. 
+    The screw used for driving an aeroplane, plane.
 
 R
 #
 
-Rudder. A plane or group of planes used to steer an aeroplane.
+Rudder. 
+    A plane or group of planes used to steer an aeroplane.
 
-Runner. Strip beneath an aeroplane used for a skid.
+Runner. 
+    Strip beneath an aeroplane used for a skid.
 
 S
 #
 
-Scale Model. A miniature aeroplane exactly reproducing the proportions of an original.
+Scale Model. 
+    A miniature aeroplane exactly reproducing the proportions of an original.
 
-Spar. A mast, strut, or brace.
+Spar. 
+    A mast, strut, or brace.
 
-Stability. The power to maintain an even keel in flight.
+Stability. 
+    The power to maintain an even keel in flight.
 
-Starting Platform. A runway to enable an aeroplane to leave the ground.
+Starting Platform. 
+    A runway to enable an aeroplane to leave the ground.
 
-Skin Friction. Resistance offered by planes or wings.
+Skin Friction. 
+    Resistance offered by planes or wings.
 
-Slip. The difference between the distance actually travelled by a propeller and that measured by the pitch.
+Slip. 
+    The difference between the distance actually travelled by a propeller and that measured by the pitch.
 
-Soaring Flight. A gliding movement without apparent effort.
+Soaring Flight. 
+    A gliding movement without apparent effort.
 
-Surface. The extent of planes measured on one side only.
+Surface. 
+    The extent of planes measured on one side only.
 
-Sustaining Surface. Extent of wings or planes which lend support to an aeroplane.
+Sustaining Surface. 
+    Extent of wings or planes which lend support to an aeroplane.
 
 T
 #
 
-Tail. The plane or planes, both horizontal and vertical, carried behind the main planes.
+Tail. 
+    The plane or planes, both horizontal and vertical, carried behind the main planes.
 
-Tandem. An arrangement of two planes one behind the other.
+Tandem. 
+    An arrangement of two planes one behind the other.
 
-Thrust. The power exerted by the propeller of an aeroplane.
+Thrust. 
+    The power exerted by the propeller of an aeroplane.
 
-Tension. The power exerted by twisted strands of rubber in unwinding.
+Tension. 
+    The power exerted by twisted strands of rubber in unwinding.
 
-Tractor. A propeller placed before the main plane.
+Tractor. 
+    A propeller placed before the main plane.
 
-Triplane. An aeroplane with three main planes one above another.
+Triplane. 
+    An aeroplane with three main planes one above another.
 
 U
 #
 
-Up Wind. Against the wind.
+Up Wind. 
+    Against the wind.
 
 W
 #
 
-Wake. The churned or disturbed air in the track of a moving aeroplane.
+Wake. 
+    The churned or disturbed air in the track of a moving aeroplane.
 
-Wash. The movement of the air radiating from the sides of an aeroplane in flight.
+Wash. 
+    The movement of the air radiating from the sides of an aeroplane in flight.
 
-Wings. Planes or supporting surfaces, commonly a pair of planes extending out from the central body.
+Wings. 
+    Planes or supporting surfaces, commonly a pair of planes extending out from the central body.
 
 .. vspace:: 2
 
 .. pgfooter::
-
