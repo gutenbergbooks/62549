@@ -1,4 +1,4 @@
-* .. -*- encoding: utf-8 -*-
+.. -*- encoding: utf-8 -*-
 
 .. meta::
     :PG.Title: The Second Boys' Book of Model Aeroplanes
